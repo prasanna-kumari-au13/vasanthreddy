@@ -1,0 +1,73 @@
+1.Write down all the operators in python covered in class.And A brief description  about them?
+Ans:     Python language supports the following types of operators.
+ 
+               *Arithmetic Operators.
+               *Comparison (Relational) Operators.
+               *Assignment Operators.
+               *Logical Operators.
+ ARITHMETIC OPERATORS:
+
+              + Addition:	     
+                     Adds values on either side of the operator.	
+                                a + b
+            - Subtraction:
+                    Subtracts right hand operand from left hand operand.
+	                a – b 
+              *Multiplication:
+                    Multiplies values on either side of the operator.
+                                   a * b
+             / Division:	
+                    Divides right hand operand by left hand operand.	
+                                 a/b
+              % Modulus:
+               	     Divides right hand operand by left hand operand and returns remainder.
+	               a%b
+             ** Exponent	:
+                      Performs exponential (power) calculation on operators.
+	                 a**b
+  COMPARISION OPERATORS:
+               These operators compare the values on either sides of them and decide the relation among them. They are also called Relational operators.
+
+          ==	 If the values of two operands are equal, then the condition becomes true.	
+                      (a == b) 
+          !=	If values of two operands are not equal, then condition becomes true.	
+                    (a != b) 
+          <>	If values of two operands are not equal, then condition becomes true.	
+                     (a <> b) 
+           >	If the value of left operand is greater than the value of right operand, then condition becomes true.
+                     (a > b) 
+          <	If the value of left operand is less than the value of right operand, then condition becomes true.	
+                     (a < b) 
+         >=	If the value of left operand is greater than or equal to the value of right operand, then condition becomes true.	
+                     (a >= b) 
+         <=	If the value of left operand is less than or equal to the value of right operand, then condition becomes true.	
+                     (a <= b) 
+ASSIGNMENT OPERATORS:
+                 
+            =	Assigns values from right side operands to left side operand.
+	c = a + b assigns value of a + b into c
+         += 	It adds right operand to the left operand and assign the result to left operand.
+	c += a is equivalent to c = c + a
+          -= 	It subtracts right operand from the left operand and assign the result to left operand.	
+                 c -= a is equivalent to c = c - a
+          *=	It multiplies right operand with the left operand and assign the result to left operand
+	c *= a is equivalent to c = c * a
+           /= 	It divides left operand with the right operand and assign the result to left operand.
+	c /= a is equivalent to c = c / a
+          %=	It takes modulus using two operands and assign the result to left operand.
+	c %= a is equivalent to c = c % a
+         **= 	Performs exponential (power) calculation on operators and assign value to the left operand.
+	c **= a is equivalent to c = c ** a
+          //=	It performs floor division on operators and assign value to the left operand.
+                 c //= a is equivalent to c = c // a
+LOGICAL OPERATORS:
+
+   and Logical AND:	If both the operands are true then condition becomes true.
+	                     (a and b) 
+    or Logical OR:	If any of the two operands are non-zero then condition becomes true.
+	                      (a or b) 
+    not Logical NOT:	Used to reverse the logical state of its operand.	
+                                      not(a and b) 
+
+
+
